@@ -13,6 +13,7 @@
   "dependencies": { 
     "follow": "0.8.x",
     "request": "2.x.x",
+    "forever-agent": "*",
     "vargs": "0.1.0"
   },
   "devDependencies": { 
